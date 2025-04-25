@@ -46,6 +46,15 @@
         <mxCell id="DTeEhTxYble0DDHZacAZ-16" value="终端用户&lt;div style=&quot;font-size: 15px;&quot;&gt;功能性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="340" y="210" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="DTeEhTxYble0DDHZacAZ-17" value="终端用户&lt;div style=&quot;font-size: 15px;&quot;&gt;功能性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="350" y="220" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeEhTxYble0DDHZacAZ-18" value="终端用户&lt;div style=&quot;font-size: 15px;&quot;&gt;功能性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DTeEhTxYble0DDHZacAZ-19" value="终端用户&lt;div style=&quot;font-size: 15px;&quot;&gt;功能性&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="370" y="240" width="80" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
