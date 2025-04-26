@@ -64,8 +64,8 @@
         <mxCell id="sQf91z3cR60EXp-usis6-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="185.5" y="336.5" width="33" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="sQf91z3cR60EXp-usis6-21" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="175" y="488" width="50" height="30" as="geometry" />
+        <mxCell id="sQf91z3cR60EXp-usis6-21" value="占全部工作量60%~70%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="488" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
