@@ -20,10 +20,10 @@
           <mxGeometry x="377" y="290" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sQf91z3cR60EXp-usis6-6" value="形式规范自动生成测量变量" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="443" y="290" width="50" height="170" as="geometry" />
+          <mxGeometry x="460" y="290" width="50" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sQf91z3cR60EXp-usis6-7" value="软件产品" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="530" y="290" width="30" height="170" as="geometry" />
+          <mxGeometry x="560" y="290" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sQf91z3cR60EXp-usis6-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sQf91z3cR60EXp-usis6-1" target="sQf91z3cR60EXp-usis6-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
