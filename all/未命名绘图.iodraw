@@ -7,8 +7,8 @@
         <mxCell id="sQf91z3cR60EXp-usis6-1" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="290" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="sQf91z3cR60EXp-usis6-2" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="80" y="300" width="30" height="170" as="geometry" />
+        <mxCell id="sQf91z3cR60EXp-usis6-2" value="需求文档规格建模" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="150" y="290" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sQf91z3cR60EXp-usis6-3" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="210" y="290" width="30" height="170" as="geometry" />
