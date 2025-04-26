@@ -67,8 +67,8 @@
         <mxCell id="sQf91z3cR60EXp-usis6-21" value="占全部工作量60%~70%" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="105" y="483" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQf91z3cR60EXp-usis6-22" value="形式化与UML结合的建模过程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="208" width="180" height="30" as="geometry" />
+        <mxCell id="sQf91z3cR60EXp-usis6-22" value="形式化与UML结合的建模过程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="205" y="203" width="250" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
