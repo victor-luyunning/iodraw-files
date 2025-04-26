@@ -13,7 +13,7 @@
         <mxCell id="sQf91z3cR60EXp-usis6-3" value="UML建模" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="210" y="290" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="sQf91z3cR60EXp-usis6-4" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="sQf91z3cR60EXp-usis6-4" value="形式化描述&lt;div&gt;、验证&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="290" y="290" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="sQf91z3cR60EXp-usis6-5" value="需求分析" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
