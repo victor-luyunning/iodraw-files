@@ -7,7 +7,7 @@
         <mxCell id="hSooqHeNIcXNItOxLwmF-1" value="用户" style="ellipse;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="350" y="230" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hSooqHeNIcXNItOxLwmF-2" value="控制器&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;div&gt;定义用户程序的行为&lt;/div&gt;&lt;div&gt;将用户动作映射为模型更新&lt;/div&gt;&lt;div&gt;选择符合要求的视图&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hSooqHeNIcXNItOxLwmF-2" value="控制器&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;br style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;定义用户程序的行为&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;将用户动作映射为模型更新&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;选择符合要求的视图&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="510" y="350" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
