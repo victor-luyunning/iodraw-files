@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hSooqHeNIcXNItOxLwmF-25" value="事件" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="630" y="600" width="60" height="40" as="geometry" />
+          <mxGeometry x="620" y="600" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
