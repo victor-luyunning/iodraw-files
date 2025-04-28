@@ -76,8 +76,11 @@
         <mxCell id="hSooqHeNIcXNItOxLwmF-13" value="查看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="190" y="223" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hSooqHeNIcXNItOxLwmF-14" value="查看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="hSooqHeNIcXNItOxLwmF-14" value="使用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="560" y="223" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hSooqHeNIcXNItOxLwmF-15" value="查看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="210" y="243" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
