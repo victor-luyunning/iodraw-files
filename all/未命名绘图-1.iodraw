@@ -73,8 +73,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hSooqHeNIcXNItOxLwmF-13" value="查看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;" vertex="1" parent="1">
-          <mxGeometry x="195" y="228" width="50" height="30" as="geometry" />
+        <mxCell id="hSooqHeNIcXNItOxLwmF-13" value="查看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="190" y="223" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hSooqHeNIcXNItOxLwmF-14" value="查看" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=宋体;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="200" y="233" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
